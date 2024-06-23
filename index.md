@@ -18,10 +18,9 @@ layouts_gallery:
 toc: false
 ---
 Hello, my name is xxxx. I growp up in Brazil until my 15's and them I moved to Portugal to live with my parents. In Portugal I have take an High School course in Gestão e Programação de Sistemas informaticos. It was veryn funny, because I never had any of those classes when in Brazil, but my passion for thechnology led me to the sucess of completing the course. After that I started my professional career @ company xxxx. I started as Customer Service Representative and them I have moved into another 2 roles unitl become Data Analyst.
-
-
+____
 # Work Experience:
-
+___
 ### Data Analyst @ Company AA 
 **1900-01-01 - ?**
 #### Description
@@ -33,9 +32,9 @@ Hello, my name is xxxx. I growp up in Brazil until my 15's and them I moved to P
 - Once the data is integrated, clean and transform it to be used into Power BI
 - Guarantee Power BI is updated and doesn't have any issues while refreshing
 - Optimize Power BI reports to consume less capacity and avoid bad experience for end users. 
-
+___
 ### Tasks
-
+___
 # Education:
 
 - ## Certifications:
