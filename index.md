@@ -5,7 +5,7 @@ author_profile: true
 layout: online-cv
 classes: wide
 ---
-<div class="online-cv-content">
+
 # Personal Information
 
 - **Full Name:** John Doe
@@ -48,4 +48,3 @@ classes: wide
 *University of Technology, 2014 - 2018*
 
 - Graduated with honors, focusing on software engineering and web development.
-</div>
