@@ -2,7 +2,7 @@
 
 title: John Doe - Curriculum Vitae
 author_profile: true
-#layout: online-cv
+layout: online-cv
 classes: wide
 ---
 <div class="online-cv-content">
