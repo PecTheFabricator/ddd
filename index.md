@@ -26,50 +26,25 @@ Hello, my name is xxxx I am currently a Data Analyst @ xxxxx who pretends to mov
   <Summary style="font-size: 25px"> 
           <strong>Data Analyst @ Company AA: </strong> 1900-01-01 - ?
   </summary>
+
 ### Description
 
 ### Tasks
-* Create / maintain dashboard per stakeholders requests.
-* Extract daily data from multiple data sources, like Salesforce, Mode ANalytics, Google SHeets and other CRM tools.
-* Save the data to a destination folder to be integrated by the internal system
-* Once the data is integrated, clean and transform it to be used into Power BI
-* Guarantee Power BI is updated and doesn't have any issues while refreshing
-* Optimize Power BI reports to consume less capacity and avoid bad experience for end users. 
+- Create / maintain dashboard per stakeholders requests.
+- Extract daily data from multiple data sources, like Salesforce, Mode ANalytics, Google SHeets and other CRM tools.
+- Save the data to a destination folder to be integrated by the internal system
+- Once the data is integrated, clean and transform it to be used into Power BI
+- Guarantee Power BI is updated and doesn't have any issues while refreshing
+- Optimize Power BI reports to consume less capacity and avoid bad experience for end users. 
 
 </details>
-
-
- 
 
 #
 
 # Education:
 
-## Certifications:
-# My Expanding List
+- ## Certifications:
+  <img src="./assets/images/azure-data-engineer-associate-600x600.png" alt="Azure Data Engineering Associate" width="100"/>
+  ![My helpful screenshot]({{ site.url }}./assets/images/azure-data-engineer-associate-600x600.pngg)
 
-## Main Topics
-<details>
-  <summary>Phase 2: Execution</summary>
-  
-  <details >
-  - Task 1: Development
-    - Frontend
-      - HTML
-      - CSS
-      - JavaScript
-    - Backend
-      - Database
-      - Server-side logic
-  - Task 2: Testing
-    - Unit Testing
-    - Integration Testing
-      - API Testing
-      - End-to-End Testing
-
-</details>
-
-
----
-
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
+- ## School:
