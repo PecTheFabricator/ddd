@@ -1,6 +1,8 @@
 ---
 layout: online-cv
 title: John Doe - Curriculum Vitae
+author_profile: true
+classes: wide
 ---
 
 # Personal Information
