@@ -262,6 +262,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-relative-links
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -337,5 +338,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-gems:
-  - jekyll-relative-links
