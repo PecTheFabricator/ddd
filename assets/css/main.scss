@@ -9,7 +9,13 @@ search: false
 @import "minimal-mistakes"; // main partials
 
 .online-cv-content {
-    margin-top: 1em;
+    margin-top: 1px;
     font-family: $sans-serif;
     font-weight: bold;
   }
+
+  .online-cv-content h1, .online-cv-content h2, .online-cv-content h3 {
+    border-bottom: 2px solid #ccc; /* Adjust the color and thickness as needed */
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
