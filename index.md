@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: online-cv
 author_profile: true
 classes: wide
 title: "About Me"
