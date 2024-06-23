@@ -1,5 +1,7 @@
 .cv-container {
-    margin: 40px;
+    @include clearfix;
+    margin-left: auto;
+    margin-right: auto;
     background-color: #c00707;
 }
 .online-cv-content {
