@@ -28,7 +28,7 @@ classes: wide
 - **Programming Languages:** JavaScript, Python, HTML & CSS
 - **Frameworks and Libraries:** React.js, Node.js
 - **Tools:** Git, Docker, Jenkins
-<br/>
+<br />
 # Work Experience
 ---
 ## Software Engineer at Tech Company
@@ -43,7 +43,7 @@ classes: wide
 - Assisted in the development of internal tools and web applications.
 - Worked with senior developers to enhance coding skills and knowledge of software development practices.
 
-<br/>
+<br />
 # Education & Certifications
 ---
 ## BS in Computer Science
