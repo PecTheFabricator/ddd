@@ -17,18 +17,15 @@ layouts_gallery:
 
 toc: false
 ---
-Hello, my name is xxxx I am currently a Data Analyst @ xxxxx who pretends to move to Data Engineering field. I have worked as Data Analyst for 2.5 years
-
+Hello, my name is xxxx. I growp up in Brazil until my 15's and them I moved to Portugal to live with my parents. In Portugal I have take an High School course in Gestão e Programação de Sistemas informaticos. It was veryn funny, because I never had any of those classes when in Brazil, but my passion for thechnology led me to the sucess of completing the course. After that I started my professional career @ company xxxx. I started as Customer Service Representative and them I have moved into another 2 roles unitl become Data Analyst.
 
 # Work Experience:
 
- <details> 
-  <Summary style="font-size: 25px"> 
-          <strong>Data Analyst @ Company AA: </strong> 1900-01-01 - ?
-  </summary>
+## Data Analyst @ Company AA  
+###### 1900-01-01 - ?
 
 ### Description
-
+ As a Data Analyst I work for a Social Media advertiser platform. My role is to analyse the data and see the trends to help stakeholders to take the right decision.
 ### Tasks
 - Create / maintain dashboard per stakeholders requests.
 - Extract daily data from multiple data sources, like Salesforce, Mode ANalytics, Google SHeets and other CRM tools.
@@ -45,6 +42,6 @@ Hello, my name is xxxx I am currently a Data Analyst @ xxxxx who pretends to mov
 
 - ## Certifications:
   <img src="./assets/images/azure-data-engineer-associate-600x600.png" alt="Azure Data Engineering Associate" width="100"/>
-  ![My helpful screenshot]({{ site.url }}/assets/images/azure-data-engineer-associate-600x600.pngg)
+  ![My helpful screenshot]({{ site.url }}assets/images/azure-data-engineer-associate-600x600.png)
 
 - ## School:
