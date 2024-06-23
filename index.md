@@ -45,6 +45,6 @@ Hello, my name is xxxx I am currently a Data Analyst @ xxxxx who pretends to mov
 
 - ## Certifications:
   <img src="./assets/images/azure-data-engineer-associate-600x600.png" alt="Azure Data Engineering Associate" width="100"/>
-  ![My helpful screenshot]({{ site.url }}./assets/images/azure-data-engineer-associate-600x600.pngg)
+  ![My helpful screenshot]({{ site.url }}/assets/images/azure-data-engineer-associate-600x600.pngg)
 
 - ## School:
