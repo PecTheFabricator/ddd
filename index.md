@@ -19,6 +19,8 @@ toc: false
 ---
 Hello, my name is xxxx. I growp up in Brazil until my 15's and them I moved to Portugal to live with my parents. In Portugal I have take an High School course in Gestão e Programação de Sistemas informaticos. It was veryn funny, because I never had any of those classes when in Brazil, but my passion for thechnology led me to the sucess of completing the course. After that I started my professional career @ company xxxx. I started as Customer Service Representative and them I have moved into another 2 roles unitl become Data Analyst.
 
+#
+
 # Work Experience:
 ### Data Analyst @ Company AA 
 **1900-01-01 - ?**
