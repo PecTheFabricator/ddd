@@ -42,6 +42,6 @@ Hello, my name is xxxx. I growp up in Brazil until my 15's and them I moved to P
 
 - ## Certifications:
   <img src="./assets/images/azure-data-engineer-associate-600x600.png" alt="Azure Data Engineering Associate" width="100"/>
-![My helpful screenshot]({{ site.url }}assets/images/azure-data-engineer-associate-600x600.png){: width="250" }[link](https://google.com/){:target="_blank"}
+[![My helpful screenshot]({{ site.url }}assets/images/azure-data-engineer-associate-600x600.png){: width="250" }](https://google.com){:target="_blank"}
 
 - ## School:
