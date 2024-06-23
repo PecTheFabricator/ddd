@@ -5,8 +5,6 @@ classes: wide
 title: "About Me"
 ---
 
-# John Doe
-
 ## Contact Information
 
 - **Email:** john.doe@example.com
@@ -36,7 +34,8 @@ title: "About Me"
 - Worked with senior developers to enhance coding skills and knowledge of software development practices.
 
 ## Education
-
+### Certifications
+[![DP-203]({{ site.url }}/assets/images/azure-data-engineer-associate-600x600.png "Microsoft Certified: Azure Data Engineer Associate"){: width="150" }](https://google.com){:target="_blank"}
 ### BS in Computer Science
 *University of Technology, 2014 - 2018*
 
