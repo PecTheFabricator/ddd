@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 author_profile: true
 title: "About Me"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
