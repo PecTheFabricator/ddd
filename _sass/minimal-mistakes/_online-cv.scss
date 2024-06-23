@@ -1,9 +1,22 @@
+
+
 .cv-container {
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    background-color: #c00707;
-}
+    padding-left: 1em;
+    padding-right: 1em;
+    -webkit-animation: $intro-transition;
+    animation: $intro-transition;
+    max-width: 100%;
+    -webkit-animation-delay: 0.15s;
+    animation-delay: 0.15s;
+  
+    @include breakpoint($x-large) {
+      max-width: $max-width;
+    }
+  }
+
 .online-cv-content {
     width: 100%;
     margin: 40px auto;
