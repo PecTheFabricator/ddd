@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            background: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            border-bottom: 2;
+            border-bottom: 2px solid #ccc;
+            padding-bottom: 10px;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .contact-info, .skills, .experience, .education {
+            margin-bottom: 20px;
+        }
+        .contact-info ul, .skills ul, .experience ul, .education ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .contact-info li, .skills li, .experience li, .education li {
+            margin-bottom: 10px;
+        }
+        .skills li, .experience li, .education li {
+            background: #f9f9f9;
+            padding: 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>{{ page.title }}</h1>
+        </header>
+        <main>
+            {{ content }}
+        </main>
+    </div>
+</body>
+</html>
