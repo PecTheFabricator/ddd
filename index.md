@@ -22,12 +22,13 @@ classes: wide
 - **GitHub:** [github.com/johndoe](https://github.com/johndoe)
 
 
-
+<br />
 # Skills
 ---
 - **Programming Languages:** JavaScript, Python, HTML & CSS
 - **Frameworks and Libraries:** React.js, Node.js
 - **Tools:** Git, Docker, Jenkins
+
 <br />
 # Work Experience
 ---
