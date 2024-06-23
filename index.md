@@ -21,12 +21,11 @@ Hello, my name is xxxx. I growp up in Brazil until my 15's and them I moved to P
 
 
 # Work Experience:
-## Data Analyst @ Company AA 
+### Data Analyst @ Company AA 
 **1900-01-01 - ?**
-
-### Description
+#### Description
  As a Data Analyst I work for a Social Media advertiser platform. My role is to analyse the data and see the trends to help stakeholders to take the right decision.
-### Tasks
+#### Tasks
 - Create / maintain dashboard per stakeholders requests.
 - Extract daily data from multiple data sources, like Salesforce, Mode ANalytics, Google SHeets and other CRM tools.
 - Save the data to a destination folder to be integrated by the internal system
