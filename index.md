@@ -21,6 +21,7 @@ Hello, my name is xxxx. I growp up in Brazil until my 15's and them I moved to P
 
 
 # Work Experience:
+
 ### Data Analyst @ Company AA 
 **1900-01-01 - ?**
 #### Description
